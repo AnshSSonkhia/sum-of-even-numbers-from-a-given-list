@@ -1,0 +1,1 @@
+# sum-of-even-numbers-from-a-given-list
