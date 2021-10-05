@@ -1,3 +1,5 @@
+# Python Program to find the sum of all even numbers from a given list of different numbers from the user.
+
 NumList=[]
 evenSum=0
 
